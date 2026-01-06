@@ -87,6 +87,3 @@ All SQL queries used in this analysis can be found here:
 
 ---
 
-## 📌 Notes  
-
-This project is part of a broader data analytics portfolio focused on **real-world business questions**, clean SQL logic, and insight-driven storytelling.

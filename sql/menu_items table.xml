@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">menu_item_id</Data></Cell>
+			<Cell><Data ss:Type="String">item_name</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+			<Cell><Data ss:Type="String">price</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">101</Data></Cell>
+			<Cell><Data ss:Type="String">Hamburger</Data></Cell>
+			<Cell><Data ss:Type="String">American</Data></Cell>
+			<Cell><Data ss:Type="Number">12.95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">102</Data></Cell>
+			<Cell><Data ss:Type="String">Cheeseburger</Data></Cell>
+			<Cell><Data ss:Type="String">American</Data></Cell>
+			<Cell><Data ss:Type="Number">13.95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">103</Data></Cell>
+			<Cell><Data ss:Type="String">Hot Dog</Data></Cell>
+			<Cell><Data ss:Type="String">American</Data></Cell>
+			<Cell><Data ss:Type="Number">9.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">104</Data></Cell>
+			<Cell><Data ss:Type="String">Veggie Burger</Data></Cell>
+			<Cell><Data ss:Type="String">American</Data></Cell>
+			<Cell><Data ss:Type="Number">10.50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">105</Data></Cell>
+			<Cell><Data ss:Type="String">Mac & Cheese</Data></Cell>
+			<Cell><Data ss:Type="String">American</Data></Cell>
+			<Cell><Data ss:Type="Number">7.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">106</Data></Cell>
+			<Cell><Data ss:Type="String">French Fries</Data></Cell>
+			<Cell><Data ss:Type="String">American</Data></Cell>
+			<Cell><Data ss:Type="Number">7.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">107</Data></Cell>
+			<Cell><Data ss:Type="String">Orange Chicken</Data></Cell>
+			<Cell><Data ss:Type="String">Asian</Data></Cell>
+			<Cell><Data ss:Type="Number">16.50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">108</Data></Cell>
+			<Cell><Data ss:Type="String">Tofu Pad Thai</Data></Cell>
+			<Cell><Data ss:Type="String">Asian</Data></Cell>
+			<Cell><Data ss:Type="Number">14.50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">109</Data></Cell>
+			<Cell><Data ss:Type="String">Korean Beef Bowl</Data></Cell>
+			<Cell><Data ss:Type="String">Asian</Data></Cell>
+			<Cell><Data ss:Type="Number">17.95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">110</Data></Cell>
+			<Cell><Data ss:Type="String">Pork Ramen</Data></Cell>
+			<Cell><Data ss:Type="String">Asian</Data></Cell>
+			<Cell><Data ss:Type="Number">17.95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">111</Data></Cell>
+			<Cell><Data ss:Type="String">California Roll</Data></Cell>
+			<Cell><Data ss:Type="String">Asian</Data></Cell>
+			<Cell><Data ss:Type="Number">11.95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">112</Data></Cell>
+			<Cell><Data ss:Type="String">Salmon Roll</Data></Cell>
+			<Cell><Data ss:Type="String">Asian</Data></Cell>
+			<Cell><Data ss:Type="Number">14.95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">113</Data></Cell>
+			<Cell><Data ss:Type="String">Edamame</Data></Cell>
+			<Cell><Data ss:Type="String">Asian</Data></Cell>
+			<Cell><Data ss:Type="Number">5.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">114</Data></Cell>
+			<Cell><Data ss:Type="String">Potstickers</Data></Cell>
+			<Cell><Data ss:Type="String">Asian</Data></Cell>
+			<Cell><Data ss:Type="Number">9.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">115</Data></Cell>
+			<Cell><Data ss:Type="String">Chicken Tacos</Data></Cell>
+			<Cell><Data ss:Type="String">Mexican</Data></Cell>
+			<Cell><Data ss:Type="Number">11.95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">116</Data></Cell>
+			<Cell><Data ss:Type="String">Steak Tacos</Data></Cell>
+			<Cell><Data ss:Type="String">Mexican</Data></Cell>
+			<Cell><Data ss:Type="Number">13.95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">117</Data></Cell>
+			<Cell><Data ss:Type="String">Chicken Burrito</Data></Cell>
+			<Cell><Data ss:Type="String">Mexican</Data></Cell>
+			<Cell><Data ss:Type="Number">12.95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">118</Data></Cell>
+			<Cell><Data ss:Type="String">Steak Burrito</Data></Cell>
+			<Cell><Data ss:Type="String">Mexican</Data></Cell>
+			<Cell><Data ss:Type="Number">14.95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">119</Data></Cell>
+			<Cell><Data ss:Type="String">Chicken Torta</Data></Cell>
+			<Cell><Data ss:Type="String">Mexican</Data></Cell>
+			<Cell><Data ss:Type="Number">11.95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">120</Data></Cell>
+			<Cell><Data ss:Type="String">Steak Torta</Data></Cell>
+			<Cell><Data ss:Type="String">Mexican</Data></Cell>
+			<Cell><Data ss:Type="Number">13.95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">121</Data></Cell>
+			<Cell><Data ss:Type="String">Cheese Quesadillas</Data></Cell>
+			<Cell><Data ss:Type="String">Mexican</Data></Cell>
+			<Cell><Data ss:Type="Number">10.50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">122</Data></Cell>
+			<Cell><Data ss:Type="String">Chips & Salsa</Data></Cell>
+			<Cell><Data ss:Type="String">Mexican</Data></Cell>
+			<Cell><Data ss:Type="Number">7.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">123</Data></Cell>
+			<Cell><Data ss:Type="String">Chips & Guacamole</Data></Cell>
+			<Cell><Data ss:Type="String">Mexican</Data></Cell>
+			<Cell><Data ss:Type="Number">9.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">124</Data></Cell>
+			<Cell><Data ss:Type="String">Spaghetti</Data></Cell>
+			<Cell><Data ss:Type="String">Italian</Data></Cell>
+			<Cell><Data ss:Type="Number">14.50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">125</Data></Cell>
+			<Cell><Data ss:Type="String">Spaghetti & Meatballs</Data></Cell>
+			<Cell><Data ss:Type="String">Italian</Data></Cell>
+			<Cell><Data ss:Type="Number">17.95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">126</Data></Cell>
+			<Cell><Data ss:Type="String">Fettuccine Alfredo</Data></Cell>
+			<Cell><Data ss:Type="String">Italian</Data></Cell>
+			<Cell><Data ss:Type="Number">14.50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">127</Data></Cell>
+			<Cell><Data ss:Type="String">Meat Lasagna</Data></Cell>
+			<Cell><Data ss:Type="String">Italian</Data></Cell>
+			<Cell><Data ss:Type="Number">17.95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">128</Data></Cell>
+			<Cell><Data ss:Type="String">Cheese Lasagna</Data></Cell>
+			<Cell><Data ss:Type="String">Italian</Data></Cell>
+			<Cell><Data ss:Type="Number">15.50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">129</Data></Cell>
+			<Cell><Data ss:Type="String">Mushroom Ravioli</Data></Cell>
+			<Cell><Data ss:Type="String">Italian</Data></Cell>
+			<Cell><Data ss:Type="Number">15.50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">130</Data></Cell>
+			<Cell><Data ss:Type="String">Shrimp Scampi</Data></Cell>
+			<Cell><Data ss:Type="String">Italian</Data></Cell>
+			<Cell><Data ss:Type="Number">19.95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">131</Data></Cell>
+			<Cell><Data ss:Type="String">Chicken Parmesan</Data></Cell>
+			<Cell><Data ss:Type="String">Italian</Data></Cell>
+			<Cell><Data ss:Type="Number">17.95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">132</Data></Cell>
+			<Cell><Data ss:Type="String">Eggplant Parmesan</Data></Cell>
+			<Cell><Data ss:Type="String">Italian</Data></Cell>
+			<Cell><Data ss:Type="Number">16.95</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

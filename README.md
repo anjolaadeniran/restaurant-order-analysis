@@ -79,6 +79,10 @@ Contains transactional order data:
 
 
 
+## SQL Queries  
+
+All SQL queries used in this analysis can be found here:
+
 ➡️ [restaurant_analysis.sql](sql/restaurant_analysis.sql)
 
 ---
